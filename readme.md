@@ -77,7 +77,3 @@ ng-src directive to bind function on click for element
 ```html
 <p class="likes" ng-click="plusOne($index)">
 ```
-
-
-- Controller template in index.html
-- 
