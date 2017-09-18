@@ -2,7 +2,7 @@
 
 Lesson from CodeCademy on Angular 1
 
-[**Check online demo**](nobleworkshop.github.io/angular-01/)
+[**Check online demo**](https://nobleworkshop.github.io/angular-01/)
 
 Click on red circels - to add likes or dislikes to each book.
 
