@@ -1,2 +1,2 @@
-// 1. Defian the Angular App
+// 1. Define the Angular App
 var app = angular.module("myApp", []);
